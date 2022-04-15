@@ -8,3 +8,11 @@ BroadCF (Broad Collaborative Filtering) is one of the BroadRS algorithms, a seri
 
 # Environment Settings
 We are using python 3.8.8 for development
+
+# Example to run the codes
+The instruction of commands has been clearly stated in the codes .
+
+Run BroadCF:
+```python
+python init.py
+```
