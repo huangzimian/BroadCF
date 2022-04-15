@@ -14,5 +14,7 @@ The instruction of commands has been clearly stated in the codes .
 
 Run BroadCF:
 ```python
-python init.py
+python init.py --dataset ml-la
 ```
+# Dataset
+We provide six processed datasets: MovieLens 1 Million (ml-1m), A-DigitalMusic, A-Grocery-and-Gourmet-Food, A-Patio-Lawnand-Garden, A-Automotive,and A-Baby.
